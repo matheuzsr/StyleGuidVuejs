@@ -1,6 +1,6 @@
 # StyleGuidVuejs
 
-Esse documento contém boas práticas e convenções para um melhor uso do framework.
+Esse documento contém boas práticas e convenções para um melhor uso do framework VueJs.
 
 
 
