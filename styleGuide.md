@@ -6,8 +6,9 @@ Este é o guia de estilo oficial para códigos específicos do Vue. É uma ótim
 ### Informações importantes
 
 ```diff
-+ O uso de "aspas duplas" SEMPRE.
-+ O uso de 'aspas simples' SEMPRE.
++ O uso de "aspas duplas" TEMPLATE.
++ O uso de 'aspas simples' SCRYPTS.
+
 + Lembrar sempre virgula, e ponto e virgula ;   
 ```
 ### Categorias de regra

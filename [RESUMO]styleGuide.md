@@ -2,7 +2,8 @@
   ### Informações importantes
 
 ```diff
-+ O uso de "aspas duplas" SEMPRE.
++ O uso de "aspas duplas" TEMPLATE.
++ O uso de 'aspas simples' SCRYPTS.
 
 + Lembrar sempre virgula, e ponto e virgula;   
 ```
